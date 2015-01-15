@@ -1,0 +1,16 @@
+Kebutuhan sistem:
+- xammp 1.8.x
+- php 5
+- mysql 5
+
+Cara Install:
+- copy dan paste folder games_download ke root folder, contoh: C:xampp/htdocs
+- buka phpmyadmin menggunakan browser anda, kemudian buat database baru dengan nama 'games_download' (tanpa petik)
+- buka database yang baru dibuat tadi
+- pilih tab import, kemudian klik 'choose file' dan pilih file 'games_download.sql' yang ada di folder 'games_download'
+- klik tombol 'go'
+- buka tab baru di browser, ketikkan pada address bar 'localhost/games_download'
+	- login sebagai admin [email: admin@gmail.com, password: 123]
+- selesai...
+
+TERIMA KASIH ^_^
